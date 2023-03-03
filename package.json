@@ -1,0 +1,19 @@
+{
+  "name": "fighting-static",
+  "version": "1.0.0",
+  "description": "fighting static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fighting-bug/photograph.git"
+  },
+  "author": "fightingbug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fighting-bug/photograph/issues"
+  },
+  "homepage": "https://github.com/fighting-bug/photograph#readme"
+}
